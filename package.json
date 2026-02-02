@@ -1,6 +1,6 @@
 {
   "name": "graft",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Source-first dependency manager",
   "license": "MIT",
   "author": "shohei-yamagiwa",
